@@ -21,5 +21,3 @@ Whether you work in an organization that uses test-driven development or in an o
 7. Write a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes. Remember, loadFeed() is asynchronous.
 8. When complete - all of your tests should pass.
 
-## Result 
-
